@@ -161,7 +161,7 @@ function Navbar() {
           
         }}
       >
-        <h2>Help</h2>
+        <h2>Contact</h2>
             <p><ul> <h3>WHO Headquarters in Geneva </h3></ul>
                 <ul> Avenue Appia 20</ul>
                 <ul> 1211 Geneva</ul>
