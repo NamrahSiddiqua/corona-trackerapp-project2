@@ -1,0 +1,64 @@
+.navbar {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #1a1919;
+}
+
+/* img {
+    width: 30%;
+    align-items: center;
+    margin-left: 500px;
+}
+
+img:hover {
+    transform: scale(1.1);
+    background: linear-gradient(to right, #923453, #a8260e);
+    max-width: 30%;
+    align-items: center;
+} */
+
+
+.navbar button {
+    margin: 10px;
+    background-color: #676869;
+    color: white;
+    border: none;
+}
+
+.navbar button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(to right, #923453, #a8260e);
+}
+
+.github {
+    margin: 0px;
+    background-color: #676869;
+    color: white;
+    border: none;
+}
+
+@media only screen and (max-width: 550px) {
+    .navbar button {
+        margin: 5px;
+        font-size: 10px;
+        background-color: #676869;
+        color: white;
+        border: none;
+    }
+}
+.symimage {
+    width: 65%;
+    height: 65%;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+.preimage {
+    width: 58%;
+    height: 73%;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
