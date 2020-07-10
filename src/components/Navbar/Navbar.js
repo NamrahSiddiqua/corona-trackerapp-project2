@@ -5,8 +5,6 @@ import pre from '../../pics/pre.png';
 import { AppBar, Toolbar, Typography, Button, } from "@material-ui/core";
 import Modal from "react-modal";
 import "./Navbar.css";
-import Map from '../Map/Map';
-
 function Navbar() {
   const [symptoms, setsymptoms] = useState(false);
   const [precautions, setprecautions] = useState(false);
