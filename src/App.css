@@ -29,11 +29,11 @@ img {
   margin-top: 15px;
 }
 
-img:hover {
+/* img:hover {
   transform: scale(1.1);
   background: linear-gradient(to right, #923453, #a8260e);
   align-items: center;
-}
+} */
 
 @media only screen and (max-width: 770px) {
   .container {
