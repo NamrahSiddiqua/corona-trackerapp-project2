@@ -37,12 +37,13 @@ img:hover {
 
 @media only screen and (max-width: 770px) {
   .container {
-    margin: 0 10%;
+    margin: 0 20%;
   }
 }
 
-  .image {
+  img {
     width: 100%;
+    margin-left: 150px;
   }
 
   
