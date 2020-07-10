@@ -23,7 +23,7 @@ function Navbar() {
       >
         <Toolbar>
           <Typography variant="h6" style={{ flexGrow: 10, fontSize: 30, fontWeight: 800, }}>
-                COVID-19 Tracker app by Namrah       </Typography>
+                COVID-19 Tracker app by Namrah Siddiqua     </Typography>
           <Button onClick={() => setsymptoms(true)} style={{ backgroundColor: '#448e9e' }}>Symptoms</Button>
           <Button onClick={() => setprecautions(true)} style={{ backgroundColor: '#448e9e' }}>Precautions</Button>
           <Button onClick={() => sethelp(true)} style={{ backgroundColor: '#448e9e' }}>HelpLine</Button>
