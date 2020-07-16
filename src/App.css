@@ -33,16 +33,21 @@ img:hover {
   transform: scale(1.1);
   background: linear-gradient(to right, #923453, #a8260e);
   align-items: center;
+  width: 30%;
 }
 
 @media only screen and (max-width: 770px) {
   .container {
-    margin: 0 20%;
+    margin: 0 0%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
   }
 }
 
   img {
-    width: 100%;
+    width: 30%;
     margin-left: 150px;
   }
 
